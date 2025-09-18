@@ -10,7 +10,7 @@ Lab && Homeworks:
 - Symbolic execution (auto)
 
 ## Labs
-[1. Basic Unit Testing]()
+[1. Basic Unit Testing](./lab-1-AnnaKompan)
 
 [2. Advanced Unit Testing]()
 
