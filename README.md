@@ -11,10 +11,17 @@ Lab && Homeworks:
 
 ## Labs
 [1. Basic Unit Testing]()
+
 [2. Advanced Unit Testing]()
+
 [3. Continuous Integration]()
+
 [4. Web Applications Testing]()
+
 [5. Control Flow Graph]()
+
 [6. Valgrind & Sanitizer]()
+
 [7. Fuzz Testing]()
+
 [8. Symbolic Execution]()
