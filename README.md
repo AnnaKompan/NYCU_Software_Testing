@@ -11,7 +11,7 @@ Lab && Homeworks:
 
 ## Labs
 [1. Basic Unit Testing](./lab-1-AnnaKompan)
-[!Result](./lab-1-AnnaKompan/lab_1.png)
+![Result](./lab-1-AnnaKompan/lab_1.png)
 
 [2. Advanced Unit Testing]()
 
